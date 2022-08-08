@@ -1,7 +1,9 @@
 # hello
+
 #### Requirements
-    * python 3.x
+    * Python 3.x
     * Tensorflow 1.x
+    * OpenCV
 
 
 
